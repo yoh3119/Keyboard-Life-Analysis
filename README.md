@@ -1,2 +1,2 @@
-# Keyboard-Life-Analysis
-Keyboard Life Analysis
+# Keyboard Lifetime Checker
+Keyboard Lifetime Checker
